@@ -11,7 +11,7 @@ This script implements a synergistic approach to CSP, utilizing:
 * **Minimum Remaining Values (MRV) Heuristic:** Dynamically selects the most constrained unassigned variable to force failures early, effectively pruning redundant branches of the search tree.
 
 ## Files Included
-* `sudoku_solver.py`: The main Python script containing the CSP logic, AC-3, and backtracking algorithms.
+* `p1.py`: The main Python script containing the CSP logic, AC-3, and backtracking algorithms.
 * `easy.txt`: Test board (Easy difficulty).
 * `medium.txt`: Test board (Medium difficulty).
 * `hard.txt`: Test board (Hard difficulty).
