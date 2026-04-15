@@ -16,7 +16,7 @@ This script implements a synergistic approach to CSP, utilizing:
 * `medium.txt`: Test board (Medium difficulty).
 * `hard.txt`: Test board (Hard difficulty).
 * `veryhard.txt`: Test board (Very Hard difficulty).
-* `Report.md`: An analytical commentary detailing the metric scaling and the pruning power of the chosen algorithms.
+* `README.md`: An analytical commentary detailing the metric scaling and the pruning power of the chosen algorithms.
 
 ## How to Run
 Ensure you have Python 3.x installed. The script requires no external libraries. 
