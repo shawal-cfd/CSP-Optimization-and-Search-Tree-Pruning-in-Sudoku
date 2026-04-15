@@ -25,4 +25,4 @@ Ensure you have Python 3.x installed. The script requires no external libraries.
 2. Ensure the four text files (`easy.txt`, `medium.txt`, `hard.txt`, `veryhard.txt`) are in the same directory as the Python script.
 3. Execute the script from your terminal:
    ```bash
-   python sudoku_solver.py
+   python p1.py
